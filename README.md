@@ -4,7 +4,7 @@ This repository contains the code and math from Learning Apache Spark with Pytho
 For more info, please visit the following link:
 * https://runawayhorse001.github.io/LearningApacheSpark/pyspark.pdf
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Khushal17ad/pySpark/HEAD)
 
 ## Material
 
